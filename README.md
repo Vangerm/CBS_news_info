@@ -8,6 +8,8 @@ CBS new information for subs
 
 ## 📋 Данные прокси
 
+tg://proxy?server=91.199.154.109&port=443&secret=ee416cf7778c3e20a298ce77ad3c9be7e56364656b2e7275
+
 | Параметр | Значение |
 |----------|----------|
 | **Server** | `5.187.1.169` |
